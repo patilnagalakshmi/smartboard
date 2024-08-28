@@ -1,6 +1,6 @@
 """
 Hand Tracking Module
-By: Mrsaikumar
+By: Patil Nagalakshmi
 """
 
 import math
